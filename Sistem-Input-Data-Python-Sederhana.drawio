@@ -4,71 +4,71 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="l1s2si20ELka6yR7_hsb-1" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l1s2si20ELka6yR7_hsb-1" value="START" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="170" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="l1s2si20ELka6yR7_hsb-2" value="INPUT NAMA" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="l1s2si20ELka6yR7_hsb-2" value="INPUT NAMA" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l1s2si20ELka6yR7_hsb-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l1s2si20ELka6yR7_hsb-1" target="l1s2si20ELka6yR7_hsb-2">
+        <mxCell id="l1s2si20ELka6yR7_hsb-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="l1s2si20ELka6yR7_hsb-1" target="l1s2si20ELka6yR7_hsb-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="300" as="sourcePoint" />
             <mxPoint x="430" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l1s2si20ELka6yR7_hsb-4" value="INPUT NIM" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="l1s2si20ELka6yR7_hsb-4" value="INPUT NIM" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l1s2si20ELka6yR7_hsb-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="l1s2si20ELka6yR7_hsb-4" source="l1s2si20ELka6yR7_hsb-2">
+        <mxCell id="l1s2si20ELka6yR7_hsb-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="l1s2si20ELka6yR7_hsb-2" target="l1s2si20ELka6yR7_hsb-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="390" as="sourcePoint" />
             <mxPoint x="430" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l1s2si20ELka6yR7_hsb-6" value="INPUT ALAMAT" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="l1s2si20ELka6yR7_hsb-6" value="INPUT ALAMAT" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l1s2si20ELka6yR7_hsb-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="l1s2si20ELka6yR7_hsb-6">
+        <mxCell id="l1s2si20ELka6yR7_hsb-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="l1s2si20ELka6yR7_hsb-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="500" as="sourcePoint" />
             <mxPoint x="430" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l1s2si20ELka6yR7_hsb-8" value="INPUT NO HP" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="l1s2si20ELka6yR7_hsb-8" value="INPUT NO HP" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l1s2si20ELka6yR7_hsb-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="l1s2si20ELka6yR7_hsb-8">
+        <mxCell id="l1s2si20ELka6yR7_hsb-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="l1s2si20ELka6yR7_hsb-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="620" as="sourcePoint" />
             <mxPoint x="430" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l1s2si20ELka6yR7_hsb-10" value="INPUT GENDER" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="l1s2si20ELka6yR7_hsb-10" value="INPUT GENDER" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l1s2si20ELka6yR7_hsb-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="l1s2si20ELka6yR7_hsb-10" source="l1s2si20ELka6yR7_hsb-8">
+        <mxCell id="l1s2si20ELka6yR7_hsb-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="l1s2si20ELka6yR7_hsb-8" target="l1s2si20ELka6yR7_hsb-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="750" as="sourcePoint" />
             <mxPoint x="430" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l1s2si20ELka6yR7_hsb-12" value="MENAMPILKAN BIODATA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="910" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="l1s2si20ELka6yR7_hsb-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l1s2si20ELka6yR7_hsb-10" target="l1s2si20ELka6yR7_hsb-12">
+        <mxCell id="l1s2si20ELka6yR7_hsb-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="l1s2si20ELka6yR7_hsb-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="890" as="sourcePoint" />
-            <mxPoint x="440" y="840" as="targetPoint" />
+            <mxPoint x="380" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l1s2si20ELka6yR7_hsb-14" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l1s2si20ELka6yR7_hsb-14" value="END" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="1040" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="l1s2si20ELka6yR7_hsb-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l1s2si20ELka6yR7_hsb-12" target="l1s2si20ELka6yR7_hsb-14">
+        <mxCell id="l1s2si20ELka6yR7_hsb-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="l1s2si20ELka6yR7_hsb-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="990" as="sourcePoint" />
+            <mxPoint x="380" y="970" as="sourcePoint" />
             <mxPoint x="440" y="940" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BPMLaBq58GKUO8Av-Sg7-1" value="MENAMPILKAN BIODATA" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="910" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
